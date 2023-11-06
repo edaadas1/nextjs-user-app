@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+[nextjs-user-app.webm](https://github.com/edaadas1/nextjs-user-app/assets/86204667/695397d9-951d-4cf5-82e2-92349acff56a)
+
 ## Getting Started
 
 First, run the development server:
